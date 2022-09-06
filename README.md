@@ -16,7 +16,7 @@ As part of our construct week for group project in Unit 5 at Masai School, we we
 ## Authors
 
 - Deepak Mandal 
-- Sudeep Halar
+- Sudeep Haldar
 - Sharang
 - Vishal Bhuse
 
